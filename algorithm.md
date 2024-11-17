@@ -32,16 +32,40 @@
 # Parameters: 
 # Return: appended lists
 # Algorithm:
-1. 
+1. Add a new variable, profit = worldwide_gross - budget. 
+2. If worldwide_gross is 0, set profitability to -budget to indicate a loss.
+
+
+
+
+
 
 # Purpose: highest/lowest revenue
 # Name: movie_revenue
 # Parameters: 
 # Return: revenue
 # Algorithm:
+1. Total number of movies. 
+2. Average, minimum, and maximum for:
+   3. Budget. 
+   4. Domestic gross. 
+   5. Worldwide gross. 
+   6. Total profitability. 
+7. Identify top 5 movies for:
+   8. Worldwide gross. 
+   9. Profitability. 
+   10. Budget. 
+   11. Analyze trends by year:
+   12. Group movies by release year. 
+   13. Calculate yearly averages for budget and worldwide gross.
+
+1. Return a dictionary containing:
+   2. Cleaned movies data.
+   3. statistics with calculated insights.
 
 # Purpose: call other functions
 # Name: main
 # Parameters: none 
 # Return: none
 # Algorithm:
+1. call other functions
