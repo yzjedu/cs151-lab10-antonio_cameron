@@ -14,5 +14,23 @@ def read_file(filename):
     try:
         file = open(filename, "r")
         for line in file:
-            row = line.split(',')
+            row = line.split()
+
+        file.close()
+
+    except FileNotFoundError:
+        print("File doesn’t exist")
+
+def compute_profit(movies):
+
+    for movie in movies:
+        budget = movie[2]
+        worldwide_gross = movie[4]
+        profit = worldwide_gross - budget
+        movie.append(profit)  # Add profit as the last element
+    return movies
+
+def main():
+
+
 

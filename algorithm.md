@@ -36,10 +36,6 @@
 2. If worldwide_gross is 0, set profitability to -budget to indicate a loss.
 
 
-
-
-
-
 # Purpose: highest/lowest revenue
 # Name: movie_revenue
 # Parameters: 
