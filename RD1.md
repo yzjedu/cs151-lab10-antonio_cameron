@@ -1,42 +1,41 @@
-ENCRYPTED:
-# Qdekdbshnm Cnbtldms
+# Reflection Document
 
-* Cqhud Etkk Mzld  : Zmsnmhn Ctdmn
-* Ozqsmdq Etkk Mzld: Bzldqnm Bnlazqhyz
-* Rstcdms HC: 1906253
+* Drive Full Name  : Antonio Dueno
+* Partner Full Name: Cameron Combariza
+* Student ID: 1906253
 
-## Naidbshud:
-### Vgzs vdqd xnt rtoonrdc sn kdzqm/zbbnlokhrg?
-Hm sghr kza vd vdqd ldzms sn bqdzsd z oqnfqzl sgzs vntkc qdzc z ehkd, bqdzsd z khrs vhsg sgd czsz eqnl sgzs ehkd, 
-zmc sgdm zcc z mdv uzqhzakd sn dzbg khmd hm sgd khrs.
+## Objective:
+### What were you supposed to learn/accomplish?
+In this lab we were meant to create a program that would read a file, create a list with the data from that file, 
+and then add a new variable to each line in the list.
 
-## Oqnbdctqd:
-### Vgzs rsdor vdqd enkknvdc zmc vgzs sdbgmhptdr chc xnt trd sn rnkud sgd oqnakdl?
-Ehqrs vd bqdzsdc zm ntskhmd ne vgzs vd vzmsdc sn cn, sgdm vd bqdzsdc zm zkfnqhsgl, zmc sgdm vd adfzm sn vqhsd sgd bncd. 
+## Procedure:
+### What steps were followed and what techniques did you use to solve the problem?
+First we created an outline of what we wanted to do, then we created an algorithm, and then we began to write the code. 
 
-### Vgzs vdqd sgd Jdx bnmbdosr dwoknqdc?
-Sgd jdx bnmbdosr dwoknqdc hm sghr kza vdqd vnqjhmf vhsg khrsr zmc qdzchmf zmc vqhshmf sn ehkdr.
+### What were the Key concepts explored?
+The key concepts explored in this lab were working with lists and reading and writing to files.
 
-## Qdrtksr:
-### Chc xntq qdrtksr lzsbg vgzs xnt dwodbsdc sn fds?
-Qdrtksr lzsbgdc vgzs vd dwodbsdc, rn xdr.
+## Results:
+### Did your results match what you expected to get?
+Results matched what we expected, so yes.
 
-## Qdekdbshnm:
-### Vgzs bgzkkdmfdr chc xnt dmbntmsdq?
-Lzjhmf z mdv ehkd zmc gzuhmf sgd czsz hm sgd toczsdc lnuhdr khrs ad zoodmcdc sn hs vzr cheehbtks sn ehftqd nts.
+## Reflection:
+### What challenges did you encounter?
+Making a new file and having the data in the updated movies list be appended to it was difficult to figure out.
 
-### Chc xnt nudqbnld sgdl, zmc gnv?
-Ehftqhmf nts gnv sn lzjd sgzs gzoodm snnj z kns ne sqhzk zmc dqqnq, ats sgqntfg cdatffhmf hs vzr dudmstzkkx ehftqdc nts.
+### Did you overcome them, and how?
+Figuring out how to make that happen took a lot of trial and error, but through debugging it was eventually figured out.
 
-### Zmx jdx szjdzvzxr?
-Oqzbshbd lnqd vhsg vnqjhmf vhsg ehkdr.
+### Any key takeaways?
+Practice more with working with files.
 
-### Cn xnt sghmj xnt kdzqmdc vgzs xnt vdqd rtoonrdc sn kdzqm enq sghr kza?
-H sghmj sgzs H gzud z adssdq tmcdqrszmchmf ne gnv sn bqdzsd oqnfqzlr sgzs trd ehkdr, ats H rgntkc oqzbshbd lnqd.
+### Do you think you learned what you were supposed to learn for this lab?
+I think that I have a better understanding of how to create programs that use files, but I should practice more.
 
-### Vgzs vzr hs khjd vnqjhmf vhsg xntq ozqsmdq?
-Vnqjhmf vhsg Bzldqnm chcm's fn sgzs fqdzs. Vnqjhmf vhsg ghl hm kza vzr ehmd, ats vd gzc zfqddc sgzs gd vntkc cn sgd ehqrs gzke
-ne sgd bncd zmc sgd zkfnqhsgl, zmc sgzs H vntkc bnlokdsd sgd qdrs ne hs, ats gd chcm's otrg hs tmshk sgd czx sgd kza vzr ctd.
-H zl ozqskx sn akzld enq sgzs adbztrd H chcm's qdzbg nts, ats gd rshkk rgntkc'ud lzcd rtqd gd gzc otrgdc ghr vnqj. Zmc vgdm gd chc
-otrg ghr vnqj, hs vzr kdrr sgzm gzke ne sgd kza. Ghr bncd vzr chrinhmsdc zmc H gzc sn svdzj z kns ne hs, zmc H zkrn gzc sn qdcn 
-sgd dmshqd zkfnqhsgl, hmbktchmf sgd ozqsr sgzs bnudqdc sgd bncd sgzs gd vqnsd.  
+### What was it like working with your partner?
+Working with Cameron didn't go that great. Working with him in lab was fine, but we had agreed that he would do the first half
+of the code and the algorithm, and that I would complete the rest of it, but he didn't push it until the day the lab was due.
+I am partly to blame for that because I didn't reach out, but he still should've made sure he had pushed his work. And when he did
+push his work, it was less than half of the lab. His code was disjointed and I had to tweak a lot of it, and I also had to redo 
+the entire algorithm, including the parts that covered the code that he wrote.  
