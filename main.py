@@ -42,6 +42,8 @@ def compute_profit(movies):
 # Parameters: None
 # Return: None
 def main():
+    print('Hello! In this program you can enter the name of a file with different information about several movies,\n'
+          'and receive different outputs containing summarized information about the movies.')
     filename = input("Enter a file name: ")
     movies = read_file(filename)
     if movies:
